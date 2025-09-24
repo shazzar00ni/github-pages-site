@@ -1,16 +1,39 @@
-# GitHub Pages
+# Paperlyte Documentation
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+This repository contains the official documentation for **Paperlyte**, a lightweight documentation and note-taking solution.
 
-Hey shazzar00ni!
+## About Paperlyte
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+Paperlyte is designed to be simple, fast, and efficient for all your documentation needs. Whether you're a developer documenting APIs, a writer organizing notes, or a team building a knowledge base, Paperlyte provides the essential tools without unnecessary complexity.
 
-Remember, it's self-paced so feel free to take a break! ☕️
+## Documentation Site
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/shazzar00ni/github-pages-site/issues/1)
+The documentation is built using Jekyll and hosted on GitHub Pages. Visit the live documentation at:
+
+**[https://shazzar00ni.github.io/github-pages-site](https://shazzar00ni.github.io/github-pages-site)**
+
+## Local Development
+
+To run the documentation site locally:
+
+1. Install Jekyll and dependencies
+2. Clone this repository
+3. Run `jekyll serve`
+4. Visit `http://localhost:4000`
+
+## Contributing
+
+We welcome contributions to improve the documentation! Please feel free to:
+
+- Report issues or suggest improvements
+- Submit pull requests for fixes or enhancements
+- Add examples or use cases
+
+## License
+
+This documentation is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+&copy; 2025 Paperlyte Documentation
 

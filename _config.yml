@@ -1,0 +1,44 @@
+# Paperlyte Documentation Site Configuration
+title: Paperlyte
+description: Lightweight documentation and note-taking solution
+url: "https://shazzar00ni.github.io"
+baseurl: "/github-pages-site"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Social and contact info
+github_username:  shazzar00ni
+email: your-email@example.com
+
+# Navigation
+header_pages:
+  - getting-started.md
+  - features.md
+  - api-reference.md
+  - examples.md
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# SEO settings
+author: Paperlyte Team
+twitter:
+  username: paperlyte
+  card: summary
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
